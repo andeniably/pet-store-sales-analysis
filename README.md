@@ -70,7 +70,7 @@ pet-store-sales-analysis/
 Junior Data Analyst  
 📧 baringandray@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/andray-baring-0a701b239)  
-🔗 [Portfolio Website / Notion]([https://yourportfolio.link](https://clumsy-sherbet-eaf.notion.site/Unleashing-Insights-Sales-Analysis-of-Pet-Store-Transactions-22731d492ddf80db9c8ee80d8b6d8509?source=copy_link))
+🔗 [Portfolio Website / Notion] ([https://clumsy-sherbet-eaf.notion.site/Unleashing-Insights-Sales-Analysis-of-Pet-Store-Transactions-22731d492ddf80db9c8ee80d8b6d8509?source=copy_link](https://clumsy-sherbet-eaf.notion.site/Unleashing-Insights-Sales-Analysis-of-Pet-Store-Transactions-22731d492ddf80db9c8ee80d8b6d8509?source=copy_link)
 
 ---
 
