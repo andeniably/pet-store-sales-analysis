@@ -61,3 +61,20 @@ pet-store-sales-analysis/
 ├── pet-store-sales-analysis.ipynb # Full annotated notebook
 ├── transactions-pet_store-clean.csv # Cleaned dataset used in analysis
 └── README.md # Project summary (this file)
+
+---
+
+## 💼 Author & Contact
+
+**Andray Baring**  
+Junior Data Analyst  
+📧 baringandray@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/andray-baring-0a701b239)  
+🔗 [Portfolio Website / Notion]([https://yourportfolio.link](https://clumsy-sherbet-eaf.notion.site/Unleashing-Insights-Sales-Analysis-of-Pet-Store-Transactions-22731d492ddf80db9c8ee80d8b6d8509?source=copy_link))
+
+---
+
+## 📌 Notes
+
+- This project is fictional and based on an educational lab activity.
+- All personally identifying info and proprietary data have been removed.
